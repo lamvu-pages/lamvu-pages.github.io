@@ -41,9 +41,9 @@ section.social-content {
     padding: 2rem;
 
     background: rgba(0, 0, 0, 0.125);
-    backdrop-filter: blur(50px);
-    -webkit-backdrop-filter: blur(50px);
-    -moz-backdrop-filter: blur(50px);
+    backdrop-filter: blur(32px);
+    -webkit-backdrop-filter: blur(32px);
+    -moz-backdrop-filter: blur(32px);
 
     border-radius: 2.4rem;
     color: rgba(255, 255, 255, 1);
@@ -78,9 +78,9 @@ section.social-content {
     margin-left: 12px;
 
     background: rgba(0, 0, 0, 0.125);
-    backdrop-filter: blur(50px);
-    -webkit-backdrop-filter:blur(50px);
-    -moz-backdrop-filter: blur(50px);
+    backdrop-filter: blur(32px);
+    -webkit-backdrop-filter:blur(32px);
+    -moz-backdrop-filter: blur(32px);
 
     border-radius: 3.6rem;
 }
@@ -100,9 +100,9 @@ section.social-content {
 
     background-color: rgba(0, 0, 0, 0.05);
 
-    backdrop-filter: blur(50px);
-    -webkit-backdrop-filter:blur(50px);
-    -moz-backdrop-filter: blur(50px);
+    backdrop-filter: blur(32px);
+    -webkit-backdrop-filter:blur(32px);
+    -moz-backdrop-filter: blur(32px);
 
     border-radius: 1.6rem;
 

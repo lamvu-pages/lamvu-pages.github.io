@@ -42,6 +42,9 @@ section.social-content {
 
     background: rgba(0, 0, 0, 0.125);
     backdrop-filter: blur(50px);
+    -webkit-backdrop-filter: blur(50px);
+    -moz-backdrop-filter: blur(50px);
+
     border-radius: 2.4rem;
     color: rgba(255, 255, 255, 1);
 
@@ -76,6 +79,9 @@ section.social-content {
 
     background: rgba(0, 0, 0, 0.125);
     backdrop-filter: blur(50px);
+    -webkit-backdrop-filter:blur(50px);
+    -moz-backdrop-filter: blur(50px);
+
     border-radius: 3.6rem;
 }
 .header .header-logo svg{
@@ -95,6 +101,9 @@ section.social-content {
     background-color: rgba(0, 0, 0, 0.05);
 
     backdrop-filter: blur(50px);
+    -webkit-backdrop-filter:blur(50px);
+    -moz-backdrop-filter: blur(50px);
+
     border-radius: 1.6rem;
 
     transition: transform 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
